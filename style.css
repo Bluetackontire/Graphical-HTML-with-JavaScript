@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+button {
+  height: 50px;
+  width: 410px;
+  font-size: 20px;
+}
